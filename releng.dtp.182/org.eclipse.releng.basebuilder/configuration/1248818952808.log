@@ -1,0 +1,10 @@
+!SESSION 2009-07-29 06:09:12.064 -----------------------------------------------
+eclipse.buildId=200904302300
+java.version=1.5.0_02
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Framework arguments:  -application org.eclipse.equinox.p2.publisher.UpdateSitePublisher -metadataRepository file:/home/adb/releng/BIRTOutput/dtp.output/1.7.1/../../../../UpdateSite/dtp/v20090729-0500 -artifactRepository file:/home/adb/releng/BIRTOutput/dtp.output/1.7.1/../../../../UpdateSite/dtp/v20090729-0500 -source /home/adb/releng/BIRTOutput/dtp.output/1.7.1/v20090729-0500/pack200site -configs gtk.linux.x86 -compress -reusePack200Files -publishArtifacts
+Command-line arguments:  -application org.eclipse.equinox.p2.publisher.UpdateSitePublisher -metadataRepository file:/home/adb/releng/BIRTOutput/dtp.output/1.7.1/../../../../UpdateSite/dtp/v20090729-0500 -artifactRepository file:/home/adb/releng/BIRTOutput/dtp.output/1.7.1/../../../../UpdateSite/dtp/v20090729-0500 -source /home/adb/releng/BIRTOutput/dtp.output/1.7.1/v20090729-0500/pack200site -configs gtk.linux.x86 -compress -reusePack200Files -publishArtifacts
+
+!ENTRY org.eclipse.equinox.p2.repository 4 0 2009-07-29 06:09:13.887
+!MESSAGE ProvisioningEventBus could not be obtained. Metadata caches may not be cleaned up properly.
